@@ -109,6 +109,3 @@ plt.tight_layout()
 plt.savefig("classification_metrics_barplot.png")
 plt.show()
 
-# 👉 This bar chart visualizes the model's precision, recall, and F1-score for each risk level.
-# 🎤 Use this in your presentation to explain how well the model performs for 'low', 'mid', and 'high risk'.
-# Emphasize that strong recall for high risk is especially important in real-world healthcare.
